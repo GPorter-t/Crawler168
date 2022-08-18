@@ -1,0 +1,7 @@
+__pycache__
+__MACOSX
+logs/*
+log/*
+venv
+.idea
+Crawler168/settings.py
